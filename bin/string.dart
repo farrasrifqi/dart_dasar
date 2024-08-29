@@ -1,5 +1,3 @@
-import 'dart:io';
-
 void main() {
   //* String adalah tipe data teks
   // Membuat string bisa menggunakan satu kutip ataupun dua kutip

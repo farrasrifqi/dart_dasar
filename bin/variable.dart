@@ -1,5 +1,3 @@
-import 'package:test/test.dart';
-
 const time2 = "01.00"; // const ini biasa digunakan di global (diluar fun main).
 void main() {
   // var = Tempat untuk menyimpan sebuah data.
